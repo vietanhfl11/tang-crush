@@ -11,7 +11,7 @@ const CONFIG = {
     btnNo: 'Thôi nguyện vọng 2 cũng được ‼️',
     question:'Cùng đỗ NV1 nhé',
     btnReply: 'Gửi cho Việt Anh ✊ ',
-    reply: 'Được thôi'
+    reply: 'Yessssssss'
     mess: 'Tôi biết rồi, chúc cậu may mắn',
     messDesc: 'Thi xong sẵn sàng đi Đà Nẵng nhé.',
     btnAccept: 'Ok',
