@@ -9,9 +9,9 @@ const CONFIG = {
     desc: 'Phải đậu nguyện vọng 1 nhé, phải 9+ nhé ',
     btnYes: 'Tôi sẽ làm được 🍀',
     btnNo: 'Thôi nguyện vọng 2 cũng được ‼️',
-    question:'Điểm mong muốn của bạn là bao nhiêu?',
+    question:'Cùng đỗ NV1 nhé',
     btnReply: 'Gửi cho Việt Anh ✊ ',
-    reply: '25','26','27','28','29','30','21','22','23','24'
+    reply: 'Được thôi'
     mess: 'Tôi biết rồi, chúc cậu may mắn',
     messDesc: 'Thi xong sẵn sàng đi Đà Nẵng nhé.',
     btnAccept: 'Ok',
